@@ -1,6 +1,6 @@
 {
-  "name": "aframe-minecraft-boilerplate",
-  "description": "Boilerplate for viewing exported Minecraft .OBJ worlds using A-Frame",
+  "name": "aframe-minecraft-viewer-boilerplate",
+  "description": "Boilerplate for viewing exported Minecraft (.OBJ) worlds in WebVR using A-Frame VR",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -15,6 +15,7 @@
     "aframe",
     "aframe-minecraft",
     "aframe-minecraft-boilerplate",
+    "aframe-minecraft-viewer-boilerplate",
     "minecraft"
   ]
 }
