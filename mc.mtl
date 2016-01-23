@@ -1,0 +1,325 @@
+Wavefront OBJ material file
+# Contains 28 materials
+
+newmtl Stone
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Grass_Block
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Dirt
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Cobblestone
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Water
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGBA.png
+map_Kd mc-RGBA.png
+map_d mc-Alpha.png
+# illum 4
+# d 0.535
+# Tr 0.535
+# Tf 0.465 0.465 0.465
+
+newmtl Stationary_Water
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGBA.png
+map_Kd mc-RGBA.png
+map_d mc-Alpha.png
+# illum 4
+# d 0.535
+# Tr 0.535
+# Tf 0.465 0.465 0.465
+
+newmtl Stationary_Lava
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 1 1 1
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+map_Ke mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Sand
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Gravel
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Iron_Ore
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Coal_Ore
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Wood
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Oak_Leaves
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGBA.png
+map_Kd mc-RGBA.png
+map_d mc-Alpha.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Grass
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGBA.png
+map_Kd mc-RGBA.png
+map_d mc-Alpha.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Dandelion
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGBA.png
+map_Kd mc-RGBA.png
+map_d mc-Alpha.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Poppy
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGBA.png
+map_Kd mc-RGBA.png
+map_d mc-Alpha.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Brown_Mushroom
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGBA.png
+map_Kd mc-RGBA.png
+map_d mc-Alpha.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Red_Mushroom
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGBA.png
+map_Kd mc-RGBA.png
+map_d mc-Alpha.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Moss_Stone
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Monster_Spawner
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGBA.png
+map_Kd mc-RGBA.png
+map_d mc-Alpha.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Chest
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Snow
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Clay
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Pumpkin
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Monster_Egg
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Acacia_Leaves
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGBA.png
+map_Kd mc-RGBA.png
+map_d mc-Alpha.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Acacia/Dark_Oak_Wood
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGB.png
+map_Kd mc-RGB.png
+# illum 2
+# d 1
+# Tr 1
+
+newmtl Sunflower
+# Ns 0
+# Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+# map_Ka mc-RGBA.png
+map_Kd mc-RGBA.png
+map_d mc-Alpha.png
+# illum 2
+# d 1
+# Tr 1
