@@ -1,5 +1,7 @@
 ## aframe-minecraft-viewer-boilerplate
 
+[WebVR](http://mozvr.com) [Minecraft](https://minecraft.net/) viewer boilerplate using [A-Frame VR](https://aframe.io/).
+
 <img width="1440" alt="screenshot" src="https://cloud.githubusercontent.com/assets/674727/12527130/1e9e9764-c12b-11e5-898b-839f066aeb3e.png">
 
 ## Usage
