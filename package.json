@@ -1,0 +1,20 @@
+{
+  "name": "aframe-minecraft-boilerplate",
+  "description": "Boilerplate for viewing exported Minecraft .OBJ worlds using A-Frame",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "budo --live --verbose --port 3000 --open",
+    "ghpages": "ghpages"
+  },
+  "devDependencies": {
+    "budo": "^7.0.0",
+    "ghpages": "0.0.3"
+  },
+  "keywords": [
+    "aframe",
+    "aframe-minecraft",
+    "aframe-minecraft-boilerplate",
+    "minecraft"
+  ]
+}
